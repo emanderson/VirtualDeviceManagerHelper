@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VirtualDeviceManagerHelper</string>
+    <string name="action_settings">Settings</string>
+    <string name="model_placeholder">Model</string>
+    <string name="resolution_placeholder">Resolution</string>
+    <string name="accelerometer_placeholder">Accelerometer</string>
+    <string name="gyroscope_placeholder">Gyroscope</string>
+    <string name="proximity_placeholder">Proximity</string>
+    <string name="gps_placeholder">GPS</string>
+    <string name="screen_size_placeholder">Screen Size (Aprox.)</string>
+    <string name="size_placeholder">Size</string>
+    <string name="ratio_placeholder">Screen Ratio</string>
+    <string name="density_placeholder">Density</string>
+    <string name="back_camera_placeholder">Back Camera</string>
+    <string name="front_camera_placeholder">Front Camera</string>
+
+</resources>
